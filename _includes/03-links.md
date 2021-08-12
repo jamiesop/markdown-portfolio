@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![image of coffee octocat] (https://octocat-generator-assets.githubusercontent.com/my-octocat-1539880905618.png)
