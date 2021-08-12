@@ -1,1 +1,1 @@
-[Just Github] (https://github.com)
+[Paige's GitHub](http://github.com/jamiesop) 
